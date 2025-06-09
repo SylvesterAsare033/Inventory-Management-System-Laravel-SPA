@@ -7,8 +7,8 @@ A robust Inventory Management System built with **Laravel 10**, **MySQL**, **Ine
 - **Dashboard Insight**
 - **POS (Point of Sale)**
 - **Orders**
-    - Due Payments
-    - Settle due amount
+      - Due Payments
+      - Settle due amount
 - **Transactions**
 - **Categories**
 - **Unit Types**
